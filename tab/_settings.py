@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'pages',
         'USER': 'django',
         'PASSWORD': '@2',
-        'HOST': '127.0.0.1',
+        'HOST': 'tab.csuhpwl1fju3.ap-northeast-1.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
